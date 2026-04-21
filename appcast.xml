@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>lil agents</title>
+        <link>https://github.com/ryanstephen/lil-agents</link>
+        <description>lil agents update feed</description>
+        <language>en</language>
+        <item>
+            <title>v1.2.2</title>
+            <description><![CDATA[
+                <h3>OpenClaw provider</h3>
+                <ul>
+                    <li>Added OpenClaw as a new AI provider — connect to your self-hosted OpenClaw gateway over WebSocket</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 05 Apr 2026 20:00:00 -0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/ryanstephen/lil-agents/releases/download/v1.2.2/LilAgents-v1.2.2.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="SrSavqJ+Xkm4Z3/oZ4VT0+mvUuA6ywEGmmVmBYxx87AqwN7CLvnTrE2pgyGRksuVOpvEsHf0JiEPlKrSqlMmCg=="
+                length="21020366"
+            />
+        </item>
+        <item>
+            <title>v1.2.1</title>
+            <description><![CDATA[
+                <h3>Universal binary support</h3>
+                <ul>
+                    <li>Added Intel (x86_64) support — the app now ships as a Universal binary that runs natively on both Apple Silicon and Intel Macs</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 05 Apr 2026 18:41:00 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/ryanstephen/lil-agents/releases/download/v1.2.1/LilAgents-v1.2.1.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="l5zcgio2v7CG/Y88w8+jTCkTx289Yl5EH6nt6qACXxs24P3fJfk22IRKap0NNBzTkVxt8dVs87AeCsStm4UjCA=="
+                length="20960478"
+            />
+        </item>
+        <item>
+            <title>v1.2</title>
+            <description><![CDATA[
+                <h3>Pick your agent, per character</h3>
+                <p>Bruce and Jazz can now each run a different AI provider. Click the title in any chat popover to switch between Claude, Codex, Copilot, Gemini, or OpenCode — or set them all at once from the menu bar. Unavailable providers are automatically detected and grayed out.</p>
+                <h3>Fresh starts with /clear</h3>
+                <p>Type /clear or hit the ↻ button to reset a conversation and start a new session instantly — no need to quit and relaunch.</p>
+                <h3>Resize your agents</h3>
+                <p>A new Size menu lets you switch between Large, Medium, and Small characters.</p>
+                <h3>Multi-display fixes</h3>
+                <ul>
+                    <li>Characters no longer vanish when you click a secondary monitor</li>
+                    <li>Dock detection now works when the Dock is pinned to the left or right, not just the bottom</li>
+                    <li>Pinning characters to a specific display always keeps them visible</li>
+                </ul>
+                <h3>More providers</h3>
+                <ul>
+                    <li>Gemini support</li>
+                    <li>OpenCode support</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 01 Apr 2026 22:20:00 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/ryanstephen/lil-agents/releases/download/v1.2/LilAgents-v1.2.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="2oE8UWHerwyUHhACeeww6LiEe42/DRmxwzhgP6jgwyO+Y8LhULd38wKVHQcOM9ZxbbGsEAGSPFSQ49FPuMARDw=="
+                length="20817167"
+            />
+        </item>
+    </channel>
+</rss>
