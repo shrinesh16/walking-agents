@@ -45,7 +45,3 @@ lil agents runs entirely on your Mac and sends no personal data anywhere.
 - **AI providers.** Conversations are handled entirely by the CLI process you choose (Claude, Codex, Copilot, or Gemini) running locally. lil agents does not intercept, store, or transmit your chat content. Any data sent to the provider is governed by their respective terms and privacy policies.
 - **No accounts.** No login, no user database, no analytics in the app.
 - **Updates.** lil agents uses Sparkle to check for updates, which sends your app version and macOS version. Nothing else.
-
-## license
-
-MIT License. See [LICENSE](LICENSE) for details.
