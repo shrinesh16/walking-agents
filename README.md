@@ -1,4 +1,5 @@
 # lil agents
+Borrowed from another dev out there in the opensourse community
 
 ![lil agents](hero-thumbnail.png)
 
