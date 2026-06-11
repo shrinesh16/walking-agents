@@ -1,5 +1,6 @@
 # lil agents
 Borrowed from another dev out there in the opensourse community
+going to convert it into a electron app
 
 ![lil agents](hero-thumbnail.png)
 
