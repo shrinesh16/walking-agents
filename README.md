@@ -1,6 +1,6 @@
 # lil agents
 Borrowed from another dev out there in the opensourse community
-going to convert it into a electron app
+going to convert it into a electron app that can be used on both windows as well as Macos Modularility!!
 
 ![lil agents](hero-thumbnail.png)
 
